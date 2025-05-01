@@ -9,6 +9,22 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: hero
+    content:
+      title: Legged Locomotion and Embodied AI
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark min-h-screen bg-cover bg-center"
+      background:
+        color: "navy"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: AME.png
+          filters:
+            brightness: 0.5
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
