@@ -13,7 +13,7 @@ sections:
     content:
       title: Legged Locomotion and Embodied AI
       text: |
-        <br><br>
+        <br><br><br><br>
         # Junzhe He
     design:
       spacing:
