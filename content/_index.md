@@ -13,18 +13,15 @@ sections:
     content:
       title: Legged Locomotion and Embodied AI
       text: |
-
-
         
-
         
-        ## ** Junzhe He ** ##
+        Junzhe He
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark min-h-screen bg-cover bg-center"
+      css_class: "dark min-h-screen bg-cover bg-center text-3xl font-bold"
       background:
         color: "navy"
         image:
