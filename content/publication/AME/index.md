@@ -19,7 +19,7 @@ date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-01T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,12 +28,12 @@ publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Science Robotics*
-publication_short: In *SciRob*
+publication_short: In *SciRob 2025*
 
 abstract: Under Review
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Science Robotics 2025, Under Review'
 
 tags:
   - Legged Locomotion

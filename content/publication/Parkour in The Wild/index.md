@@ -33,7 +33,7 @@ publication_short: In *IJRR 2025*
 abstract: Under Review
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'International Journal of Robotics Research 2025, Under Review'
 
 tags:
   - Legged Locomotion
