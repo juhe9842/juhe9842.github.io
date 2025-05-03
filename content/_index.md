@@ -12,6 +12,8 @@ sections:
   - block: hero
     content:
       title: Legged Locomotion and Embodied AI
+      text: |
+        Junzhe He
     design:
       spacing:
         padding: [0, 0, 0, 0]
