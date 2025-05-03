@@ -1,12 +1,12 @@
 ---
-title: '*** *** *** Generalized Legged Locomotion'
+title: 'Parkour *** ***'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Junzhe He
   - '***'
+  - Junzhe He
   - '***'
   - '***'
 
@@ -27,8 +27,8 @@ publishDate: '2025-05'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science Robotics*
-publication_short: In *SciRob*
+publication: In *International Journal of Robotics Research*
+publication_short: In *IJRR 2025*
 
 abstract: Under Review
 
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - ame
+  - parkour
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
