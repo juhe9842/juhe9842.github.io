@@ -61,6 +61,16 @@ education:
   - area: MSc in Robotics, Systems and Control
     institution: ETH Zurich
 
+skills:
+  - name: Technical Skills
+    items:
+      - Reinforcement Learning
+      - PyTorch
+
+languages:
+  - name: English
+    description: Fluent
+
 experience:
   - title: Research Engineer
     company: ETH Zurich RSL
