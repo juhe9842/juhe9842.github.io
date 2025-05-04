@@ -39,14 +39,14 @@ sections:
           date_start: '2017-09-01'
           date_end: '2019-05-01'
           description: Hazard Examination and Reconnaissance Messenger for Extended Surveillance
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+  # - block: resume-experience
+  #   content:
+  #     username: admin
+  #   design:
+  #     # Hugo date format
+  #     date_format: 'January 2006'
+  #     # Education or Experience section first?
+  #     is_education_first: false
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
