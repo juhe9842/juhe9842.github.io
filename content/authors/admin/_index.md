@@ -60,6 +60,36 @@ education:
     institution: ETH Zurich
   - area: MSc in Robotics, Systems and Control
     institution: ETH Zurich
+
+experience:
+  - title: Research Engineer
+    company: ETH Zurich RSL
+    company_url: 'https://rsl.ethz.ch/'
+    location: Zurich, Switzerland
+    date_start: '2024-01-01'
+    date_end: '2024-06-01'
+    description: "Legged Robot Locomotion"
+  - title: Visiting Researcher
+    company: Massachusetts Institute of Technology
+    company_url: https://www.mit.edu/
+    location: Boston, United States
+    date_start: '2023-08-01'
+    date_end: '2024-01-01'
+    description: ""
+  - title: Software Engineer Intern
+    company: Tencent Technology
+    company_url: https://www.tencent.com/
+    location: Shenzhen, China
+    date_start: '2021-04-01'
+    date_end: '2021-08-01'
+    description: "Imitation Learning for Quadruped Robot Locomotion"
+  - title: Research Assistant
+    company: Jet Propulsion Laboratory & University of Colorado Boulder
+    company_url: https://www.jpl.nasa.gov/
+    location: Boulder, United States
+    date_start: '2017-09-01'
+    date_end: '2019-05-01'
+    description: "Hazard Examination and Reconnaissance Messenger for Extended Surveillance"
 ---
 
 ## About Me
