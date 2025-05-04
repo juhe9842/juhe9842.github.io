@@ -58,18 +58,12 @@ interests:
 education:
   - area: PhD in Robotics
     institution: ETH Zurich
+    date_start: 2024-01-01
+    date_end: ''
   - area: MSc in Robotics, Systems and Control
     institution: ETH Zurich
-
-skills:
-  - name: Technical Skills
-    items:
-      - Reinforcement Learning
-      - PyTorch
-
-languages:
-  - name: English
-    description: Fluent
+    date_start: 2021-09-01
+    date_end: '2024-01-01'
 
 work:
   - position: Research Engineer
