@@ -13,6 +13,7 @@ sections:
   - block: experience
     content:
       date_format: Jan 2006
+      title: Experience
       items:
         - title: Research Engineer 
           company: ETH Zurich RSL
