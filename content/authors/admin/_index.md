@@ -71,35 +71,79 @@ languages:
   - name: English
     description: Fluent
 
-experience:
-  - title: Research Engineer
-    company: ETH Zurich RSL
+work:
+  - position: Research Engineer
+    company_name: ETH Zurich RSL
     company_url: 'https://rsl.ethz.ch/'
-    location: Zurich, Switzerland
-    date_start: '2024-01-01'
+    company_logo: ''
+    date_start: 2024-01-01
     date_end: '2024-06-01'
-    description: "Legged Robot Locomotion"
-  - title: Visiting Researcher
-    company: Massachusetts Institute of Technology
-    company_url: https://www.mit.edu/
-    location: Boston, United States
-    date_start: '2023-08-01'
+    summary: |
+      Legged Robot Locomotion
+  - position: Visiting Researcher
+    company_name: Massachusetts Institute of Technology
+    company_url: 'https://www.mit.edu/'
+    company_logo: ''
+    date_start: 2023-08-01
     date_end: '2024-01-01'
-    description: ""
-  - title: Software Engineer Intern
-    company: Tencent Technology
-    company_url: https://www.tencent.com/
-    location: Shenzhen, China
-    date_start: '2021-04-01'
+    summary: ''
+  - position: Software Engineer Intern
+    company_name: Tencent Technology
+    company_url: 'https://www.tencent.com/'
+    company_logo: ''
+    date_start: 2021-04-01
     date_end: '2021-08-01'
-    description: "Imitation Learning for Quadruped Robot Locomotion"
-  - title: Research Assistant
-    company: Jet Propulsion Laboratory & University of Colorado Boulder
-    company_url: https://www.jpl.nasa.gov/
-    location: Boulder, United States
-    date_start: '2017-09-01'
+    summary: |
+      Imitation Learning for Quadruped Robot Locomotion
+  - position: Research Assistant
+    company_name: Jet Propulsion Laboratory & University of Colorado Boulder
+    company_url: 'https://www.jpl.nasa.gov/'
+    company_logo: ''
+    date_start: 2017-09-01
     date_end: '2019-05-01'
-    description: "Hazard Examination and Reconnaissance Messenger for Extended Surveillance"
+    summary: |
+      Hazard Examination and Reconnaissance Messenger for Extended Surveillance
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 100
+  - name: German
+    percent: 25
+
+awards:
+  - title: ETH Recursive Estimation Programming Project Competition
+    url: https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Recursive-Estimation/ProgrammingEx/RE_ProgrammingExercise_results.pdf
+    date: '2022-08-10'
+    awarder: ETH Zurich
+    icon: ''
+    summary: ''
+  - title: ETH Scholarship 
+    url: ''
+    date: '2022-02-01'
+    awarder: ETH Zurich
+    icon: ''
+    summary: ''
+  - title: 1st Place Student Paper Award
+    url: https://www.sawe.org/product/2019-78th-sawe-international-conference-on-mass-properties-engineering-conference-proceedings/
+    date: '2010-05-18'
+    awarder: Society of Allied Weight Engineers (SAWE)
+    icon: ''
+    summary: 'The 78th Society of Allied Weight Engineers International Conference 2019'
+  - title: '2nd Place Student Paper Award'
+    url: https://aiaa.org/events/2019-region-v-student-conference/
+    date: '2019-04-05'
+    awarder: AIAA
+    icon: ''
+    summary: |
+      AIAA Region 5 Student Conference 2019:
+  - title: Engineering Differential Scholarship
+    url: ''
+    date: '2018-09-01'
+    awarder: University of Colorado Boulder
+    icon: ''
+    summary: ''
 ---
 
 ## About Me
