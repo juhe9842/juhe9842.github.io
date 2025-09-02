@@ -46,13 +46,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2507.09371v1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 # url_project: 'https://sites.google.com/view/consmimic'
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2507.09371v1'
+url_source: ''
 url_video: ''
 
 links:
