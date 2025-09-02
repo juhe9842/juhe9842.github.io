@@ -50,10 +50,16 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://sites.google.com/view/consmimic'
+# url_project: 'https://sites.google.com/view/consmimic'
 url_slides: ''
 url_source: 'https://arxiv.org/abs/2507.09371v1'
 url_video: ''
+
+links:
+  - name: Project
+    url: https://sites.google.com/view/consmimic
+    icon_pack: fas
+    icon: robot
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
